@@ -52,7 +52,7 @@ const cp = (o) => ({
 
 export const PRODUCTS = [
   // ---------- Konstruksi & Properti ----------
-  cp({ id: 'cp-construction-modern', name: 'Company Profile Construction Modern', label: 'Construction', category: 'konstruksi', tags: ['Modern', 'Bold', 'Profesional'], description: 'Template bold dan tegas untuk kontraktor dan perusahaan konstruksi yang ingin tampil meyakinkan.', price: 149000, discountPrice: 99000, cover: '/product/1.webp', badge: 'BEST SELLER' }),
+  cp({ id: 'cp-construction-modern', name: 'Company Profile Construction Modern', label: 'Construction', category: 'konstruksi', tags: ['Modern', 'Bold', 'Profesional'], description: 'Template bold dan tegas untuk kontraktor dan perusahaan konstruksi yang ingin tampil meyakinkan.', price: 149000, discountPrice: 99000, cover: '/products/1.webp', badge: 'BEST SELLER' }),
   cp({ id: 'cp-contractor-civil', name: 'Company Profile Contractor & Civil Works', label: 'Contractor', category: 'konstruksi', tags: ['Industrial', 'Profesional'], description: 'Menampilkan portofolio proyek, legalitas, dan sertifikasi kontraktor sipil dengan rapi.', price: 149000, discountPrice: 99000 }),
   cp({ id: 'cp-property-developer', name: 'Company Profile Property & Developer', label: 'Property', category: 'konstruksi', tags: ['Elegan', 'Modern'], description: 'Tampilan elegan untuk developer dan agen properti dengan ruang besar untuk foto proyek.', price: 149000, discountPrice: 109000, badge: 'TERBARU' }),
   cp({ id: 'cp-architecture-interior', name: 'Company Profile Architecture & Interior', label: 'Architecture', category: 'konstruksi', tags: ['Minimalis', 'Elegan', 'Clean'], description: 'Layout minimalis dan lapang untuk studio arsitek dan desain interior.', price: 129000, discountPrice: 89000 }),
