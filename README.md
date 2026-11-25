@@ -8,9 +8,6 @@ npm run dev      # development
 npm run build    # produksi (hasil di /dist)
 ```
 
-> ⚠️ `index.html` di folder ini adalah file sumber Vite — kalau diklik dua kali akan tampil kosong (normal).
-> Untuk melihat hasilnya: jalankan `npm run dev`, atau buka `siap-buka/index.html` (versi pratinjau yang sudah jadi).
-
 ## Ganti brand (mis. ke Foxez Studio)
 Edit **`src/data/site.js`** → `SITE.name` dan `SITE.role`.
 Logo, footer, copyright, cover produk, pesan WhatsApp, dan judul tab otomatis mengikuti.
