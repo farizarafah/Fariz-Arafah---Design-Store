@@ -22,7 +22,7 @@ export default function App() {
             <Reveal>
               <span className="eyebrow">{SITE.role}</span>
               <h1 className="mt-4 font-display text-[clamp(2.6rem,7vw,5.5rem)] font-extrabold leading-[0.95] tracking-[-0.045em]">
-                Produk <span className="text-brand">Digital</span>
+                Produk <span className="text-brand">Digital Apps</span>
               </h1>
             </Reveal>
             <Reveal delay={100} className="mt-5 flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
